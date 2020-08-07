@@ -7,7 +7,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
-#### Languages and Tools :
+### Languages and Tools :
 
 <a href="https://code.visualstudio.com">
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -40,6 +40,6 @@
 <br />
 
 ---
-#### Thomas's GitHub Stats :
+### Thomas's GitHub Stats :
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tchiarani&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&title_color=1e2a38&icon_color=66b2fe&hide=prs,issues&hide_title=true" alt="Thomas's Github Stats" />
