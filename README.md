@@ -42,6 +42,6 @@
 ---
 ### Thomas's GitHub Stats :
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tchiarani&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&title_color=1e2a38&icon_color=66b2fe&hide=prs,issues&hide_title=true" alt="Thomas's Github Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tchiarani&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&title_color=1e2a38&icon_color=66b2fe&hide=prs,issues&hide_title=true" alt="Thomas's Github Stats" />
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tchiarani&layout=compact" />
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tchiarani&layout=compact&hide_border=true" />
