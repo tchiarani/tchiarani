@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Hi, I'm Thomas, a passionate front-end web developer from France.
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
