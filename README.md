@@ -37,10 +37,7 @@
   <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 </a>
 
-<br />
-
----
-### Thomas's GitHub Stats :
+### GitHub Stats :
 
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tchiarani&hide_border=true&hide_title=true&layout=compact" />
 
