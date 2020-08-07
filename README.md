@@ -40,4 +40,4 @@
 <br />
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tchiarani&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&title_color=111111&&hide=prs,issues" alt="Thomas's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tchiarani&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&title_color=#1e2a38&hide=prs,issues" alt="Thomas's Github Stats" />
