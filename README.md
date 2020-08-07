@@ -37,3 +37,5 @@
 <a href="https://github.com">
   <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 </a>
+
+<img align="left" alt="tchiarani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tchiarani&show_icons=true&hide_border=true" />
