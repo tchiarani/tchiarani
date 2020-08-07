@@ -42,6 +42,4 @@
 
 ---
 
-<br />
-
-<img align="left" alt="tchiarani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tchiarani&show_icons=true&hide_border=false" />
+<img align="left" alt="tchiarani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tchiarani&show_icons=true&hide_border=true" />
