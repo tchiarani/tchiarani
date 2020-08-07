@@ -2,11 +2,10 @@
 
 **A passionate front-end web developer from France.**
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my own website
+- 🌱 I’m currently learning Sass
+<!-- - ⚡ Fun fact: ... -->
+
 
 #### Languages and Tools :
 
@@ -41,5 +40,4 @@
 <br />
 
 ---
-
 <img align="left" alt="Thomas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tchiarani&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" />
