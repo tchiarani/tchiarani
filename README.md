@@ -50,12 +50,11 @@ I'm Thomas, a passionate **front-end web developer.**
 
 <img align="center" width="450" src="https://github-readme-stats.tchiarani.vercel.app/api?username=tchiarani&hide_rank=true&line_height=30&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1e2a38&icon_color=1e2a38&hide=prs,issues&hide_title=true" alt="tchiarani's Github Stats" />
 
+<!--
 <p align="center">
   <a href="https://github.com/tchiarani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="tchiarani" height="30" width="30" /></a>
   <a href="https://dribbble.com/tchiarani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="tchiarani" height="30" width="30" /></a>
   <a href="https://www.behance.net/thomaschiarani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="thomaschiarani" height="30" width="30" /></a>
 </p>
-
-<!--
 <img align="center" src="https://svgur.com/i/N_k.svg">
 -->
