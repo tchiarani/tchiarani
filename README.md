@@ -1,7 +1,6 @@
 <!--
 <img align="center" src="https://svgur.com/i/NZd.svg">
 -->
-<img align="center" src="https://svgur.com/i/Nb8.svg">
 
 <img align="right" src="https://svgur.com/i/Naz.svg" width="50%"/>
 
@@ -63,6 +62,6 @@ I'm Thomas, a passionate **front-end web developer.**
   <a href="https://dribbble.com/tchiarani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="tchiarani" height="30" width="30" /></a>
   <a href="https://www.behance.net/thomaschiarani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="thomaschiarani" height="30" width="30" /></a>
 </p>
+<img align="center" src="https://svgur.com/i/N_k.svg">
 -->
-<img align="center" src="https://svgur.com/i/N_q.svg">
 
