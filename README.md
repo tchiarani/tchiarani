@@ -27,6 +27,9 @@ I'm Thomas, a passionate **front-end web developer.**
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
   <img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 </a>
+<a href="https://vuejs.org/">
+  <img align="left" alt="Vue.js" height="26px" src="https://lh5.googleusercontent.com/proxy/IA9dMXXTrwPfrAWFDHEHzeGvaRxXeDkkc2ASpuwaDMMEGO4ib1dlc9CU0DekXH92wMagbltJPU5_b6mwmnetdqiNg6FejMwTrZzPIP10WhnR"/>
+</a>
 <a href="https://figma.com">
   <img align="left" alt="Figma" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"/>
 </a>
