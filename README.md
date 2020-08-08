@@ -13,7 +13,7 @@ I'm Thomas, a passionate **front-end web developer.**
 - ⚡ Fun fact: ... 
 -->
 
-<div align="right">
+<div align="center">
   
 ### Languages and Tools :
 
