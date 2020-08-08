@@ -18,10 +18,10 @@ I'm Thomas, a passionate **front-end web developer.**
 ### Languages and Tools :
 
 <a href="https://developer.mozilla.org/fr/docs/Web/Guide/HTML/HTML5">
-  <img align="left" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img align="center" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </a>
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS">
-  <img align="left" alt="CSS" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  <img align="center" alt="CSS" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 </a>
 <a href="https://sass-lang.com/">
   <img align="left" alt="Sass" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
