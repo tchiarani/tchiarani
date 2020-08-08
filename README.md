@@ -50,7 +50,7 @@ I'm Thomas, a passionate **front-end web developer.**
 
 <img align="left" src="https://github-readme-stats.tchiarani.vercel.app/api/top-langs/?username=tchiarani&card_width=235&layout=compact&hide_border=true&hide_title=true" alt="tchiarani's Most Used Languages" />
 
-<img align="center" width="440" src="https://github-readme-stats.tchiarani.vercel.app/api?username=tchiarani&hide_rank=false&line_height=30&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1e2a38&icon_color=1e2a38&hide=prs,issues&hide_title=true" alt="tchiarani's Github Stats" />
+<img align="center" width="430" src="https://github-readme-stats.tchiarani.vercel.app/api?username=tchiarani&hide_rank=false&line_height=30&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1e2a38&icon_color=1e2a38&hide=prs,issues&hide_title=true" alt="tchiarani's Github Stats" />
 
 <!--
 <p align="center">
