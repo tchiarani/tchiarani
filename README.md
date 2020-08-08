@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-**I'm Thomas, a passionate front-end web developer from France.**
+**I'm Thomas, a passionate front-end web developer.**
 
 - 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning Sass
