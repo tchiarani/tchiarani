@@ -1,6 +1,4 @@
-<img align="center" src="https://svgur.com/i/NZd.svg">
-
-<img align="right" src="https://svgur.com/i/N_k.svg" width="50%">
+<img align="center" src="https://svgur.com/i/NZd.svg" width="60%">
 
 ### Hello World ‎ <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
