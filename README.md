@@ -1,6 +1,6 @@
 <img align="right" src="https://svgur.com/i/Naz.svg" width="50%"/>
 
-### Hello World! 👋 ‎ <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
+### Hello World! 👋
 
 I'm Thomas, a passionate **front-end web developer.**
 
