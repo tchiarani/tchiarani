@@ -13,8 +13,14 @@ I'm Thomas, a passionate **front-end web developer.**
 <a href="https://developer.mozilla.org/fr/docs/Web/Guide/HTML/HTML5">
   <img align="left" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </a>
+<a href="https://developer.mozilla.org/fr/docs/Web/Guide/HTML/HTML5">
+  <img align="left" alt="HTML5" height="26px" src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2016/04/html5-logo-1-512x500.png">
+</a>
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS">
   <img align="left" alt="CSS" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+</a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS">
+  <img align="left" alt="CSS" height="26px" src="https://i0.wp.com/gafish.fr/wp-content/uploads/2013/03/Logo_CSS3.png?ssl=1">
 </a>
 <a href="https://sass-lang.com/">
   <img align="left" alt="Sass" height="26px" src="https://sass-lang.com/assets/img/styleguide/seal-black-1e36d095.png">
