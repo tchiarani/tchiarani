@@ -1,6 +1,6 @@
 <img align="right" src="https://svgur.com/i/Naz.svg" width="50%"/>
 
-### Hello World! 👋
+### Hello World ! 👋
 
 I'm Thomas, a passionate **front-end web developer.**
 
