@@ -1,8 +1,10 @@
 <img align="center" src="https://svgur.com/i/NZd.svg">
 <div align="left">
+  
 ### Hello World <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
 I'm Thomas, a passionate **front-end web developer.**
+
 </div>
 <!--
 - 🔭 I’m currently working on my own website
@@ -11,6 +13,7 @@ I'm Thomas, a passionate **front-end web developer.**
 -->
 
 <div align="right">
+  
 ### Languages and Tools :
 
 <a href="https://developer.mozilla.org/fr/docs/Web/Guide/HTML/HTML5">
@@ -40,7 +43,9 @@ I'm Thomas, a passionate **front-end web developer.**
 <a href="https://github.com">
   <img align="left" alt="Github" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 </a>
+
 </div>
+
 <br />
 <br />
 
