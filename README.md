@@ -17,7 +17,7 @@ I'm Thomas, a passionate **front-end web developer.**
   <img align="left" alt="CSS" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 </a>
 <a href="https://sass-lang.com/">
-  <img align="left" alt="Sass" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+  <img align="left" alt="Sass" height="26px" src="https://sass-lang.com/assets/img/styleguide/seal-black-1e36d095.png">
 </a>
 <a href="https://getbootstrap.com/">
   <img align="left" alt="Bootstrap" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
