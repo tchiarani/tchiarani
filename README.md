@@ -1,6 +1,5 @@
-<img align="center" src="https://svgur.com/i/NZd.svg">
-  
-### Hello World ‎ <img align="left" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
+<img align="center" src="https://svgur.com/i/NZd.svg">  
+### Hello World ‎ <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
 I'm Thomas, a passionate **front-end web developer.**
 
