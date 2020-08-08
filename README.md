@@ -1,5 +1,7 @@
 <img align="center" src="https://svgur.com/i/NZd.svg">
   
+<div align="center">
+  
 ### Hello World ‎ <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
 I'm Thomas, a passionate **front-end web developer.**
@@ -48,6 +50,8 @@ I'm Thomas, a passionate **front-end web developer.**
 <img align="left" src="https://github-readme-stats.tchiarani.vercel.app/api/top-langs/?username=tchiarani&card_width=235&layout=compact&hide_border=true&hide_title=true" alt="tchiarani's Most Used Languages" />
 
 <img align="center" width="450" src="https://github-readme-stats.tchiarani.vercel.app/api?username=tchiarani&hide_rank=true&line_height=30&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1e2a38&icon_color=1e2a38&hide=prs,issues&hide_title=true" alt="tchiarani's Github Stats" />
+
+</div>
 
 <!--
 <img align="center" src="https://svgur.com/i/N_k.svg">
