@@ -1,6 +1,7 @@
 <!--
 <img align="center" src="https://svgur.com/i/NZd.svg">
 -->
+<img align="center" src="https://i.imgur.com/6V1jgZp.png">
 
 <img align="right" src="https://svgur.com/i/Naz.svg" width="50%"/>
 
