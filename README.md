@@ -1,7 +1,7 @@
 <!--
 <img align="center" src="https://svgur.com/i/NZd.svg">
 -->
-<img align="center" src="https://i.imgur.com/6V1jgZp.png">
+<img align="center" src="https://svgur.com/i/Nb8.svg">
 
 <img align="right" src="https://svgur.com/i/Naz.svg" width="50%"/>
 
@@ -33,14 +33,14 @@ I'm Thomas, a passionate **front-end web developer.**
 <a href="https://vuejs.org/">
   <img align="left" alt="Vue.js" height="26px" src="https://lh5.googleusercontent.com/proxy/IA9dMXXTrwPfrAWFDHEHzeGvaRxXeDkkc2ASpuwaDMMEGO4ib1dlc9CU0DekXH92wMagbltJPU5_b6mwmnetdqiNg6FejMwTrZzPIP10WhnR"/>
 </a>
+<a href="https://git-scm.com/">
+  <img align="left" alt="Git" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
+</a>
 <a href="https://figma.com">
   <img align="left" alt="Figma" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"/>
 </a>
 <a href="https://code.visualstudio.com">
   <img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</a>
-<a href="https://git-scm.com/">
-  <img align="left" alt="Git" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
 </a>
 <!--
 <a href="https://github.com">
