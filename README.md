@@ -1,6 +1,6 @@
 ### Hello World <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
-**I'm Thomas, a passionate front-end web developer.**
+I'm Thomas, a passionate **front-end web developer.**
 
 - 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning Sass
