@@ -35,7 +35,7 @@ I'm Thomas, a passionate **front-end web developer.**
   <img align="left" alt="Figma" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"/>
 </a>
 <a href="https://www.framer.com/">
-  <img align="left" alt="Framer" height="26px" src="https://appgrowthsummit.com/wp-content/uploads/2019/04/Framer-Logo-Black_220.png" />
+  <img align="left" alt="Framer" height="26px" src="https://cdn-images-1.medium.com/max/120/1*dmOpWYzoP2dcATSW1G4nCg@2x.png" />
 </a>
 <!--
 <a href="https://github.com">
