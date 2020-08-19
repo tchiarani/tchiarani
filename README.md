@@ -34,8 +34,8 @@ I'm Thomas, a passionate **front-end web developer.**
 <a href="https://figma.com">
   <img align="left" alt="Figma" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"/>
 </a>
-<a href="https://code.visualstudio.com">
-  <img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.framer.com/">
+  <img align="left" alt="Framer" height="26px" src="https://appgrowthsummit.com/wp-content/uploads/2019/04/Framer-Logo-Black_220.png" />
 </a>
 <!--
 <a href="https://github.com">
