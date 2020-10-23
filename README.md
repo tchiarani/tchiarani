@@ -5,7 +5,7 @@
 I'm Thomas, a passionate **front-end web developer**.
 
 - 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning Web design
+- 🌱 I’m currently learning UI/UX Design
 - ⚡ Fun fact: I love to customize what can be customized
   
 ### Languages and Tools :
